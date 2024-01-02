@@ -18,3 +18,4 @@ tokio = { version = "1", features = [
     "time",
     "test-util",
 ] }
+chrono = { version = "0.4", features = ["serde"] }
